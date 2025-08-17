@@ -1,12 +1,11 @@
 ## Holanda aqui! 
 
-🚀 **Apaixonada por Programação** | 💻 **Front-End Developer** | 🔧 **Back-End em Progressão**
+🚀 **Apaixonada por Programação** | 💻 **Desenvolvedora de Front-end** | 🔧 **Back-End em Progressão**
 
-- 🌐 **Front-End**: Criando experiências incríveis com HTML, CSS e JavaScript!
+- 🌐 **Front-End**: Criando experiências  com HTML, CSS e JavaScript!
 - 🔙 **Back-End**: Explorando o mundo do Node.js, APIs e banco de dados.
-- 💡 **Sempre Aprendendo**: Estudo novas tecnologias e tento melhorar todos os dias.
 
 - 🖥️ **Front-End**: HTML, CSS, JavaScript, React
-- 🔧 **Back-End**: Node.js
-- 🌱 **Aprendendo**: TypeScript,Java, Front-end
+- 🔧 **Back-End**: Node.js,Java, JavaScript, PHP.  
+- 🌱 **Aprendendo**: TypeScript,Java, Front-end, Poo, C, Estrutura de Dados, Infraestrutura de TI, Desenvolvimento Web
 
